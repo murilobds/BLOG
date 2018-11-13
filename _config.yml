@@ -1,7 +1,7 @@
 # Site settings
 title: BLOG BSOURCE
 description: A blog about lorem ipsum dolor sit amet
-baseurl: "cards-jekyll-template" # the subpath of your site, e.g. /blog
+baseurl: "CARDS" # the subpath of your site, e.g. /blog
 url: "https://github.com/murilobds" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
