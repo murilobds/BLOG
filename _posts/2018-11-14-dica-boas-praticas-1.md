@@ -8,7 +8,7 @@ color: '#637a91'
 tags:
 - "dicarapida"
 twitter_text: "Favicons, touch icons e tile icons..."
-introduction: "Qual a importância dos favicons, touch icons e tile icons. Como criá-los automáticamente e como usá-los em seu site."
+introduction: "TESTES TESTES TESTE."
 ---
 
 Olá pessoal tudo certo?
