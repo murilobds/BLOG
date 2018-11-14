@@ -3,7 +3,7 @@ layout: post
 title: "Dicas de boas praticas em Ext JS"
 date: 2018-11-14 21:31:05
 description: "Detalhes fazem a diferença"
-main-class: 'Dicas'
+main-class: 'dicas'
 color: '#637a91'
 tags:
 - "dicarapida"
