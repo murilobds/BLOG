@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Dica rápida #1"
-date: 2015-01-07 21:31:05
-description: "Detalhes fazem a diferença, vamos falar sobre Favicons, Touch Icons e Tile Icons e como eles fazem a diferença."
+title: "Dicas de boas praticas em Ext JS"
+date: 2018-11-14 21:31:05
+description: "Detalhes fazem a diferença"
 main-class: 'dev'
 color: '#637a91'
 tags:
