@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "dicas de boas praticas em Ext JS"
+title: "Dicas de boas praticas em Ext JS"
 date: 2018-11-14 21:31:05
 description: "Detalhes fazem a diferença"
 main-class: 'dicas'
@@ -8,7 +8,7 @@ color: '#637a91'
 tags:
 - "dicarapida"
 twitter_text: "Favicons, touch icons e tile icons..."
-introduction: "TESTES TESTES TESTE."
+introduction: "Saiba mais sobre praticas que irão te ajudar a organizar e aumentar a performance de seus projetos."
 ---
 
 Olá pessoal tudo certo?
