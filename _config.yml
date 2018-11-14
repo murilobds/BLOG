@@ -1,7 +1,7 @@
 # Site settings
 title: BLOG BSOURCE
 description: A blog about lorem ipsum dolor sit amet
-baseurl: "/CARDS" # the subpath of your site, e.g. /blog
+baseurl: "/BLOG" # the subpath of your site, e.g. /blog
 url: "https://murilobds.github.io" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
@@ -35,7 +35,7 @@ links:
     url: /series
   - title: Tags
     url: /tags
-  - title: About Me
+  - title: Sobre
     url: /about
 
 # exclude my node related stuff
