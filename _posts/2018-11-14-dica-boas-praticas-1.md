@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "dev de boas praticas em Ext JS"
+title: "dicas de boas praticas em Ext JS"
 date: 2018-11-14 21:31:05
 description: "Detalhes fazem a diferença"
-main-class: 'dev'
+main-class: 'dicas'
 color: '#637a91'
 tags:
 - "dicarapida"
